@@ -1,0 +1,2 @@
+[deploy.commands]
+build = ".webslice/build-e028142db9b3660a721dc9e96c431d69.sh"
